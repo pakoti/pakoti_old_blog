@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+
+body {
+  background-color: #add8e6;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0048BA;
+}
+
+li {
+  float: left;
+  border-right:1px solid #bbb;
+}
+
+li:last-child {
+  border-right: none;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: hsl(323, 71%, 43%);
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:#0048BA;
+   color: white;
+   text-align: center;
+}
+</style>
+</head>
+<body>
+<title>Home Page</title>
+<ul>
+  <li><a class="active" href="home.html">Home</a></li>
+  <li><a href="about.html">About Me</a></li>
+</ul>
+<h1>Blog</h1>
+<h3><a href="posts/post1.html">.Post1</a></h3>
+<h3><a href="posts/post2.html">.Post2</a></h3>
+<h3><a href="posts/post3.html">.Post3</a></h3>
+<h3><a href="posts/post4.html">.Post4</a></h3>
+<div class="footer">
+    <p>Be in ouch with me:</p>
+    <p>@gmail.com</p>
+    <p>+98000000</p>
+  </div>
+
+</body>
+</html>
