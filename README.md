@@ -1,2 +1,2 @@
-# pakoti.gihub.io
+# pakoti.github.io
 My Personal Blog
