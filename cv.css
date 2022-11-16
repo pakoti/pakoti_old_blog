@@ -41,10 +41,15 @@ p.enlarge span { color: #000 }
 .job p { margin: 0.75em 0 3em 0; }
 
 .last { border: none; }
-.talent { width: 32%; float: left }
-.talent h2 { margin-bottom: 6px; }
 
+
+ ul { margin: 0; }
+ li { margin: 3px 0; padding: 3px 0; }
+ li span { font-size: 152%; display: block; margin-bottom: -2px; padding: 0 }
 .gf .u{width:80.2%;}
 .gf div.first{width:12.3%;}
 
-
+/* Solid border */
+hr.solid {
+  border-top: 3px solid #bbb;
+}
