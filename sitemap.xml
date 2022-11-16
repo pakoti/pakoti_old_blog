@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://pakoti.github.io/</loc>
+	<lastmod>2022-11-17T00:43:22+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://pakoti.github.io/index.html</loc>
+	<lastmod>2022-11-17T00:43:22+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://pakoti.github.io/cv.html</loc>
+	<lastmod>2022-11-17T00:43:22+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://pakoti.github.io/blog.html</loc>
+	<lastmod>2022-11-17T00:43:22+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://pakoti.github.io/about.html</loc>
+	<lastmod>2022-11-17T00:43:22+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://pakoti.github.io/posts/post1.html</loc>
+	<lastmod>2022-11-17T00:43:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
